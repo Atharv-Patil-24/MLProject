@@ -20,4 +20,3 @@ logging.basicConfig(
     ],
     force=True  # Overwrite any previous logging configuration
 )
-
